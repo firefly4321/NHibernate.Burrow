@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/lib
+END
+WatiN.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/nhcontrib/!svn/ver/430/trunk/src/NHibernate.Burrow/lib/WatiN.Core.dll
+END
+wwDataBinder.Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/lib/wwDataBinder.Readme.txt
+END
+wwDataBinder.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/nhcontrib/!svn/ver/422/trunk/src/NHibernate.Burrow/lib/wwDataBinder.dll
+END
+Interop.SHDocVw.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/nhcontrib/!svn/ver/432/trunk/src/NHibernate.Burrow/lib/Interop.SHDocVw.dll
+END
+System.Web.Extensions.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/nhcontrib/!svn/ver/422/trunk/src/NHibernate.Burrow/lib/System.Web.Extensions.dll
+END

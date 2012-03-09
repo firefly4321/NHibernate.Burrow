@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Web
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Web/Web.config
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Web/Default.aspx.cs
+END
+EditCustomer.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Web/EditCustomer.ascx
+END
+EditCustomer.ascx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Web/EditCustomer.ascx.cs
+END
+ListCustomers.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Web/ListCustomers.aspx
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Web/Default.aspx
+END
+ListCustomers.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Web/ListCustomers.aspx.cs
+END

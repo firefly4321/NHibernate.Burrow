@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Tests
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Tests/App.config
+END
+BootStrapTestCaseBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Tests/BootStrapTestCaseBase.cs
+END
+BasicThreeTier.Tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Tests/BasicThreeTier.Tests.csproj
+END

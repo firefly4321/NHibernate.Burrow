@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow
+END
+sample build commands.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/nhcontrib/!svn/ver/541/trunk/src/NHibernate.Burrow/sample%20build%20commands.txt
+END
+default.build
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/nhcontrib/!svn/ver/722/trunk/src/NHibernate.Burrow/default.build
+END
+test.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/nhcontrib/!svn/ver/679/trunk/src/NHibernate.Burrow/test.bat
+END
+releasenotes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/nhcontrib/!svn/ver/789/trunk/src/NHibernate.Burrow/releasenotes.txt
+END
+gfdl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/nhcontrib/!svn/ver/422/trunk/src/NHibernate.Burrow/gfdl.txt
+END
+lgpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/nhcontrib/!svn/ver/422/trunk/src/NHibernate.Burrow/lgpl.txt
+END

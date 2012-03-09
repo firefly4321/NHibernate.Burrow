@@ -1,0 +1,14 @@
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\bin\Release\NHibernate.Burrow.XML
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\bin\Release\NHibernate.Burrow.dll
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\bin\Release\NHibernate.Burrow.pdb
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\bin\Release\Iesi.Collections.dll
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\bin\Release\log4net.dll
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\bin\Release\NHibernate.dll
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\bin\Release\Iesi.Collections.pdb
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\bin\Release\log4net.xml
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\obj\Release\NHibernate.Burrow.dll
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\obj\Release\NHibernate.Burrow.pdb
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\bin\Release\NHibernate.pdb
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\bin\Release\NHibernate.xml
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow\bin\Release\Iesi.Collections.xml

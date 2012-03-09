@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/nhcontrib/!svn/ver/637/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/ConverstationTests
+END
+ConversationManagementFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/nhcontrib/!svn/ver/211/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/ConverstationTests/ConversationManagementFixture.cs
+END
+WrapUrlFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/nhcontrib/!svn/ver/431/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/ConverstationTests/WrapUrlFixture.cs
+END
+ConversationalDataFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/nhcontrib/!svn/ver/211/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/ConverstationTests/ConversationalDataFixture.cs
+END
+LongBusinessTransactionFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/nhcontrib/!svn/ver/637/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/ConverstationTests/LongBusinessTransactionFixture.cs
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/nhcontrib/!svn/ver/440/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/MockEntities
+END
+MockEntity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/nhcontrib/!svn/ver/440/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/MockEntities/MockEntity.cs
+END
+MockEntity.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/nhcontrib/!svn/ver/440/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/MockEntities/MockEntity.hbm.xml
+END
+MockEntityDAO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/MockEntities/MockEntityDAO.cs
+END

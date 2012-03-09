@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/Pagination
+END
+PaginatorFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/Pagination/PaginatorFixture.cs
+END
+NamedQueryRowsCounterFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/Pagination/NamedQueryRowsCounterFixture.cs
+END
+PaginableCriteriaFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/Pagination/PaginableCriteriaFixture.cs
+END
+PaginableQueryFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/Pagination/PaginableQueryFixture.cs
+END
+NoFoo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/Pagination/NoFoo.cs
+END
+Foo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/Pagination/Foo.cs
+END
+NoFooPaginable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/Pagination/NoFooPaginable.cs
+END
+BasePaginatorFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/Pagination/BasePaginatorFixture.cs
+END
+PagTest.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/nhcontrib/!svn/ver/211/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/Pagination/PagTest.hbm.xml
+END
+QueryRowsCounterFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/Pagination/QueryRowsCounterFixture.cs
+END

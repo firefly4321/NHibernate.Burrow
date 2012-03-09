@@ -1,0 +1,17 @@
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\NHibernate.Burrow.AppBlock.XML
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\NHibernate.Burrow.AppBlock.dll
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\NHibernate.Burrow.AppBlock.pdb
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\Iesi.Collections.dll
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\log4net.dll
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\NHibernate.Burrow.dll
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\NHibernate.dll
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\log4net.xml
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\Iesi.Collections.pdb
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\NHibernate.Burrow.pdb
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\NHibernate.Burrow.xml
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\obj\Release\NHibernate.Burrow.AppBlock.dll
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\obj\Release\NHibernate.Burrow.AppBlock.pdb
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\Iesi.Collections.xml
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\NHibernate.pdb
+C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.AppBlock\bin\Release\NHibernate.xml

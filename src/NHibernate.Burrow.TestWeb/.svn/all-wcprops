@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/Web.config
+END
+CRUDtest.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nhcontrib/!svn/ver/64/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/CRUDtest.aspx
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/nhcontrib/!svn/ver/286/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/Global.asax
+END
+CRUDtest.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/nhcontrib/!svn/ver/248/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/CRUDtest.aspx.cs
+END

@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 97
+*.suo
+*.resharperoptions
+*.resharper.user
+*.resharper
+bin
+obj
+CodeStyle.xml
+Build.bat
+result.txt
+
+END

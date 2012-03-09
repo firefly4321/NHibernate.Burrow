@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NHibernate.Burrow">
+</Property><Property Name="Solution File" Value="C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.sln">
+</Property><Property Name="Date" Value="Wednesday, February 17, 2010">
+</Property><Property Name="Time" Value="7:55 AM">
+</Property></Properties><Event ErrorLevel="0" Project="NHibernate.Burrow" Source="NHibernate.Burrow\NHibernate.Burrow.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NHibernate.Burrow" Source="NHibernate.Burrow\NHibernate.Burrow.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.Test" Source="NHibernate.Burrow.Test\NHibernate.Burrow.Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NHibernate.Burrow.Test" Source="NHibernate.Burrow.Test\NHibernate.Burrow.Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.WebUtil" Source="NHibernate.Burrow.WebUtil\NHibernate.Burrow.WebUtil.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NHibernate.Burrow.WebUtil" Source="NHibernate.Burrow.WebUtil\NHibernate.Burrow.WebUtil.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.TestUtil" Source="NHibernate.Burrow.TestUtil\NHibernate.Burrow.TestUtil.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NHibernate.Burrow.TestUtil" Source="NHibernate.Burrow.TestUtil\NHibernate.Burrow.TestUtil.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.AppBlock" Source="NHibernate.Burrow.AppBlock\NHibernate.Burrow.AppBlock.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NHibernate.Burrow.AppBlock" Source="NHibernate.Burrow.AppBlock\NHibernate.Burrow.AppBlock.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.AppBlock.Test" Source="NHibernate.Burrow.AppBlock.Test\NHibernate.Burrow.AppBlock.Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NHibernate.Burrow.AppBlock.Test" Source="NHibernate.Burrow.AppBlock.Test\NHibernate.Burrow.AppBlock.Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.TestWeb.UnitTest" Source="NHibernate.Burrow.TestWeb.UnitTest\NHibernate.Burrow.TestWeb.UnitTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NHibernate.Burrow.TestWeb.UnitTest" Source="NHibernate.Burrow.TestWeb.UnitTest\NHibernate.Burrow.TestWeb.UnitTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NHibernate.Burrow.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NHibernate.Burrow.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow" Source="NHibernate.Burrow\NHibernate.Burrow.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.Test" Source="NHibernate.Burrow.Test\NHibernate.Burrow.Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.WebUtil" Source="NHibernate.Burrow.WebUtil\NHibernate.Burrow.WebUtil.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.TestUtil" Source="NHibernate.Burrow.TestUtil\NHibernate.Burrow.TestUtil.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.AppBlock" Source="NHibernate.Burrow.AppBlock\NHibernate.Burrow.AppBlock.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.AppBlock.Test" Source="NHibernate.Burrow.AppBlock.Test\NHibernate.Burrow.AppBlock.Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NHibernate.Burrow.TestWeb.UnitTest" Source="NHibernate.Burrow.TestWeb.UnitTest\NHibernate.Burrow.TestWeb.UnitTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

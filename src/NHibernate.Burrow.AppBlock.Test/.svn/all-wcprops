@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test
+END
+TestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/TestCase.cs
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/nhcontrib/!svn/ver/285/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/App.config
+END
+NHibernate.Burrow.AppBlock.Test.build
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/NHibernate.Burrow.AppBlock.Test.build
+END
+DebugConnectionProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/DebugConnectionProvider.cs
+END
+NHibernate.Burrow.AppBlock.Test.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/NHibernate.Burrow.AppBlock.Test.csproj
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/nhcontrib/!svn/ver/397/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/readme.txt
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Core/Domain
+END
+Customer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Core/Domain/Customer.cs
+END
+Customer.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Core/Domain/Customer.hbm.xml
+END
+EntityBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/examples/BasicThreeTier/src/BasicThreeTier.Core/Domain/EntityBase.cs
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/nhcontrib/!svn/ver/697/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/ConversationStates
+END
+SpanByUrl2.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/nhcontrib/!svn/ver/693/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/ConversationStates/SpanByUrl2.aspx.cs
+END
+ConversationNormal.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/nhcontrib/!svn/ver/211/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/ConversationStates/ConversationNormal.aspx.cs
+END
+ConversationLazyLoad.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/nhcontrib/!svn/ver/440/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/ConversationStates/ConversationLazyLoad.aspx
+END
+ConversationAjax.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/nhcontrib/!svn/ver/207/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/ConversationStates/ConversationAjax.aspx
+END
+ConversationLazyLoad.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/nhcontrib/!svn/ver/440/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/ConversationStates/ConversationLazyLoad.aspx.cs
+END
+SpanByUrl1.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/nhcontrib/!svn/ver/697/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/ConversationStates/SpanByUrl1.aspx
+END
+SpanByUrl2.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/nhcontrib/!svn/ver/693/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/ConversationStates/SpanByUrl2.aspx
+END
+ConversationAjax.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/nhcontrib/!svn/ver/211/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/ConversationStates/ConversationAjax.aspx.cs
+END
+ConversationNormal.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/nhcontrib/!svn/ver/207/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/ConversationStates/ConversationNormal.aspx
+END
+SpanByUrl1.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/nhcontrib/!svn/ver/697/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/ConversationStates/SpanByUrl1.aspx.cs
+END

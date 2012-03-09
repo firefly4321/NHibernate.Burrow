@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 80
+*.suo
+*.resharperoptions
+*.resharper.user
+*.resharper
+bin
+obj
+build
+*.bat
+*.log
+
+END
