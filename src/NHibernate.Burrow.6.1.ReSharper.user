@@ -1,0 +1,138 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D2954D0B-C830-417B-A0D4-70AD81043B71/f:BurrowTest.cfg.xml.template" caret="0" fromTop="0" />
+      <File id="D2954D0B-C830-417B-A0D4-70AD81043B71/d:ManualTransaction/f:ManualTransactionFexture.cs" caret="1545" fromTop="33" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="3929" fromTop="10" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:ITransaction.cs" caret="199" fromTop="9" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:WorkSpace.cs" caret="3027" fromTop="17" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:DataContainers/f:LocalSafe.cs" caret="1637" fromTop="53" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:VoidTransaction.cs" caret="13" fromTop="0" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:SessionAndTransactionManager.cs" caret="670" fromTop="0" />
+      <File id="3DBB9568-5688-4442-8ECA-BD216E807C8D/f:WebUtilHTTPModule.cs" caret="3711" fromTop="23" />
+      <File id="3DBB9568-5688-4442-8ECA-BD216E807C8D/d:Impl/f:WorkSpaceSnifferByAttribute.cs" caret="214" fromTop="8" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Configuration/f:NHibernateBurrowCfgSection.cs" caret="417" fromTop="10" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:FrameworkEnvironment.cs" caret="413" fromTop="10" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/f:BurrowFramework.cs" caret="2994" fromTop="16" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/f:TransactionStrategy.cs" caret="2574" fromTop="10" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:ConversationWithManagedTransactionImpl.cs" caret="320" fromTop="8" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/f:IBurrowConfig.cs" caret="1537" fromTop="23" />
+      <File id="D2954D0B-C830-417B-A0D4-70AD81043B71/d:Concurrency/f:SessionConcurency.cs" caret="1291" fromTop="3" />
+      <File id="D2954D0B-C830-417B-A0D4-70AD81043B71/d:AdvNHFunctionTests/f:ManualSessionFeature.cs" caret="275" fromTop="10" />
+      <File id="A21E3169-C842-49B3-A100-4EA6E12DFD9A/f:FrameFixture.cs" caret="736" fromTop="19" />
+      <File id="D2954D0B-C830-417B-A0D4-70AD81043B71/d:FrameworkEnvironment/f:FuctionFixture.cs" caret="363" fromTop="12" />
+      <File id="D2954D0B-C830-417B-A0D4-70AD81043B71/f:App.config" caret="1523" fromTop="31" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="4682" fromTop="19" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="4790" fromTop="30" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:ITransaction.cs" caret="431" fromTop="21" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:VoidTransaction.cs" caret="198" fromTop="8" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:VoidTransaction.cs" caret="883" fromTop="10" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="2313" fromTop="35" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="4790" fromTop="23" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="684" fromTop="19" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:SessionAndTransactionManager.cs" caret="2311" fromTop="12" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="1801" fromTop="15" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="4748" fromTop="13" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:SessionAndTransactionManager.cs" caret="1098" fromTop="17" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:SessionAndTransactionManager.cs" caret="1381" fromTop="26" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:SessionAndTransactionManager.cs" caret="2004" fromTop="25" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:SessionAndTransactionManager.cs" caret="1527" fromTop="24" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:SessionAndTransactionManager.cs" caret="1930" fromTop="28" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="1490" fromTop="29" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="1401" fromTop="22" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="1709" fromTop="33" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="3060" fromTop="18" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="4771" fromTop="17" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="851" fromTop="10" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="166" fromTop="9" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="1879" fromTop="9" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="2590" fromTop="29" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="3893" fromTop="37" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="5487" fromTop="16" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:TransactionImpl.cs" caret="1064" fromTop="10" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:WorkSpace.cs" caret="3059" fromTop="18" />
+      <File id="3ED19982-3C23-4B7D-BE81-D40846A6CB16/d:Impl/f:WorkSpace.cs" caret="3043" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="TransactionScope" priority="0" />
+      <Item value="if" priority="7" />
+      <Item value="IBurrowConfig`0" priority="0" />
+      <Item value="FrameworkEnvironment`0" priority="0" />
+      <Item value="transactionScopeFactory" priority="2" />
+      <Item value="null" priority="8" />
+      <Item value="transactionScope" priority="8" />
+      <Item value="IFilter`0" priority="0" />
+      <Item value="nhtransaction" priority="3" />
+      <Item value="void" priority="1" />
+      <Item value="return" priority="2" />
+      <Item value="Transaction" priority="1" />
+      <Item value="UriHostNameType`0" priority="0" />
+      <Item value="sess" priority="1" />
+      <Item value="private" priority="0" />
+      <Item value="NHibernate" priority="0" />
+      <Item value="ISession`0" priority="0" />
+      <Item value="session" priority="9" />
+      <Item value="false" priority="1" />
+      <Item value="var" priority="2" />
+      <Item value="transaction" priority="5" />
+      <Item value="isValid`0" priority="2" />
+      <Item value="const" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="a" priority="1" />
+      <Item value="new" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="b" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NHibernate.Burrow.Impl.FrameworkEnvironment">
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.Burrow.Impl.FrameworkEnvironment">
+      <Item value="Configuration" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.Burrow.IBurrowConfig">
+      <Item value="TransactionScopeFactory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Transactions.TransactionScope">
+      <Item value="Complete`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ITransaction">
+      <Item value="Dispose`0" priority="0" />
+      <Item value="IsActive" priority="0" />
+      <Item value="WasCommitted" priority="0" />
+      <Item value="Commit`0" priority="0" />
+      <Item value="Rollback`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.Burrow.Impl.ITransaction">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="Transaction" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
