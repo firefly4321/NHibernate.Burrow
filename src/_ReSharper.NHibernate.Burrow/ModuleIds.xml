@@ -1,8 +1,0 @@
-<Modules>
-  <Module PersistentId="D2954D0B-C830-417B-A0D4-70AD81043B71" ModuleId="NHibernate.Burrow.Test" />
-  <Module PersistentId="3ED19982-3C23-4B7D-BE81-D40846A6CB16" ModuleId="NHibernate.Burrow" />
-  <Module PersistentId="3DBB9568-5688-4442-8ECA-BD216E807C8D" ModuleId="NHibernate.Burrow.WebUtil" />
-  <Module PersistentId="9B9C74DF-1F3E-46E6-A294-42E1A4CD380F" ModuleId="NHibernate.Burrow.AppBlock.Test" />
-  <Module PersistentId="18403445-C779-482B-82A3-D6982CA7E5E4" ModuleId="NHibernate.Burrow_1" />
-  <Module PersistentId="A21E3169-C842-49B3-A100-4EA6E12DFD9A" ModuleId="NHibernate.Burrow.TestWeb.UnitTest" />
-</Modules>

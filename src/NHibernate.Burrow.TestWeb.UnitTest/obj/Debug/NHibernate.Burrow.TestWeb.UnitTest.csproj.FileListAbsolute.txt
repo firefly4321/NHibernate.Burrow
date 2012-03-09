@@ -1,9 +1,0 @@
-C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.TestWeb.UnitTest\bin\Debug\NHibernate.Burrow.TestWeb.UnitTest.dll.config
-C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.TestWeb.UnitTest\bin\Debug\NHibernate.Burrow.TestWeb.UnitTest.dll
-C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.TestWeb.UnitTest\bin\Debug\NHibernate.Burrow.TestWeb.UnitTest.pdb
-C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.TestWeb.UnitTest\bin\Debug\Interop.SHDocVw.dll
-C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.TestWeb.UnitTest\bin\Debug\nunit.framework.dll
-C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.TestWeb.UnitTest\bin\Debug\WatiN.Core.dll
-C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.TestWeb.UnitTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.TestWeb.UnitTest\obj\Debug\NHibernate.Burrow.TestWeb.UnitTest.dll
-C:\Users\Hummy\Desktop\Example\Nhibernate.Burrow\src\NHibernate.Burrow.TestWeb.UnitTest\obj\Debug\NHibernate.Burrow.TestWeb.UnitTest.pdb
