@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/ConfigurationTemplates
+END
+MSSQL.cfg.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/ConfigurationTemplates/MSSQL.cfg.xml.tmpl
+END
+SQLite.cfg.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/nhcontrib/!svn/ver/441/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/ConfigurationTemplates/SQLite.cfg.xml.tmpl
+END
+PostgreSQL.cfg.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/nhcontrib/!svn/ver/441/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/ConfigurationTemplates/PostgreSQL.cfg.xml.tmpl
+END
+MySql.cfg.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/nhcontrib/!svn/ver/441/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/ConfigurationTemplates/MySql.cfg.xml.tmpl
+END
+Oracle.cfg.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/nhcontrib/!svn/ver/441/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/ConfigurationTemplates/Oracle.cfg.xml.tmpl
+END
+FireBird.cfg.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/nhcontrib/!svn/ver/441/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/ConfigurationTemplates/FireBird.cfg.xml.tmpl
+END

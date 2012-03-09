@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/nhcontrib/!svn/ver/685/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow/Util
+END
+InstanceLoader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/nhcontrib/!svn/ver/422/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow/Util/InstanceLoader.cs
+END
+WebUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/nhcontrib/!svn/ver/430/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow/Util/WebUtil.cs
+END
+SchemaUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/nhcontrib/!svn/ver/432/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow/Util/SchemaUtil.cs
+END
+EntityLoader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nhcontrib/!svn/ver/685/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow/Util/EntityLoader.cs
+END

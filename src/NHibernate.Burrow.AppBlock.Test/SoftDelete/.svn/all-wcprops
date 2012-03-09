@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/nhcontrib/!svn/ver/393/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/SoftDelete
+END
+RandomEntity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/nhcontrib/!svn/ver/393/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/SoftDelete/RandomEntity.cs
+END
+RandomEntity.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/nhcontrib/!svn/ver/393/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/SoftDelete/RandomEntity.hbm.xml
+END
+SoftDeleter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/nhcontrib/!svn/ver/393/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/SoftDelete/SoftDeleter.cs
+END
+SoftDeleter.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/nhcontrib/!svn/ver/393/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/SoftDelete/SoftDeleter.hbm.xml
+END
+SoftDeleteFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/nhcontrib/!svn/ver/393/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/SoftDelete/SoftDeleteFixture.cs
+END

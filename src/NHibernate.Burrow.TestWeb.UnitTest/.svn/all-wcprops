@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/nhcontrib/!svn/ver/697/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest
+END
+GridViewEventsFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/nhcontrib/!svn/ver/440/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/GridViewEventsFixture.cs
+END
+StatefulFieldInDynamicallyLoadControlsTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/nhcontrib/!svn/ver/440/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/StatefulFieldInDynamicallyLoadControlsTest.cs
+END
+RedirectionFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/nhcontrib/!svn/ver/440/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/RedirectionFixture.cs
+END
+IgnoreStatefulFieldTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/nhcontrib/!svn/ver/690/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/IgnoreStatefulFieldTest.cs
+END
+MasterPageFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/nhcontrib/!svn/ver/440/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/MasterPageFixture.cs
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/nhcontrib/!svn/ver/430/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/App.config
+END
+FrameFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/nhcontrib/!svn/ver/681/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/FrameFixture.cs
+END
+NHibernate.Burrow.TestWeb.UnitTest.build
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/nhcontrib/!svn/ver/679/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/NHibernate.Burrow.TestWeb.UnitTest.build
+END
+NHibernate.Burrow.TestWeb.UnitTest.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/nhcontrib/!svn/ver/690/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/NHibernate.Burrow.TestWeb.UnitTest.csproj
+END
+ConversationStatesFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/nhcontrib/!svn/ver/697/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/ConversationStatesFixture.cs
+END
+CustomerErrorHandlingFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/nhcontrib/!svn/ver/440/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/CustomerErrorHandlingFixture.cs
+END
+PropagationFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/nhcontrib/!svn/ver/440/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/PropagationFixture.cs
+END
+TestBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/nhcontrib/!svn/ver/511/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb.UnitTest/TestBase.cs
+END

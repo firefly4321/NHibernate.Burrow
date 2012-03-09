@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/nhcontrib/!svn/ver/393/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/SoftDelete
+END
+SoftDeleteEventListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/nhcontrib/!svn/ver/393/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/SoftDelete/SoftDeleteEventListener.cs
+END
+ISoftDelete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/nhcontrib/!svn/ver/393/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/SoftDelete/ISoftDelete.cs
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/nhcontrib/!svn/ver/703/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl
+END
+StatefulFieldProcessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/nhcontrib/!svn/ver/422/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl/StatefulFieldProcessor.cs
+END
+StatefulFieldSaver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/nhcontrib/!svn/ver/693/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl/StatefulFieldSaver.cs
+END
+ConversationStatePageModule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/nhcontrib/!svn/ver/248/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl/ConversationStatePageModule.cs
+END
+StatefulFieldPageModule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/nhcontrib/!svn/ver/690/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl/StatefulFieldPageModule.cs
+END
+ConversationalDataVSFInterceptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl/ConversationalDataVSFInterceptor.cs
+END
+StatefulFieldLoader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/nhcontrib/!svn/ver/693/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl/StatefulFieldLoader.cs
+END
+GlobalPlaceHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/nhcontrib/!svn/ver/681/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl/GlobalPlaceHolder.cs
+END
+StatefulFieldsControlFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/nhcontrib/!svn/ver/690/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl/StatefulFieldsControlFilter.cs
+END
+LogFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/nhcontrib/!svn/ver/285/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl/LogFactory.cs
+END
+EntityVSFInterceptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/nhcontrib/!svn/ver/422/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl/EntityVSFInterceptor.cs
+END
+WorkSpaceSnifferByAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/nhcontrib/!svn/ver/703/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.WebUtil/Impl/WorkSpaceSnifferByAttribute.cs
+END

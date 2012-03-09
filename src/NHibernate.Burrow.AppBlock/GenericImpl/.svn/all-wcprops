@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/GenericImpl
+END
+PaginableRowsCounterQuery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/GenericImpl/PaginableRowsCounterQuery.cs
+END
+PaginableCriteria.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/GenericImpl/PaginableCriteria.cs
+END
+PaginableQuery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/GenericImpl/PaginableQuery.cs
+END

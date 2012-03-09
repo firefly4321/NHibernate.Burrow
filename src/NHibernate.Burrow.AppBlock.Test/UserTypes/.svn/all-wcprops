@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/UserTypes
+END
+UpperStringMappings.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/nhcontrib/!svn/ver/211/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/UserTypes/UpperStringMappings.hbm.xml
+END
+Foo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/UserTypes/Foo.cs
+END
+UpperStringFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock.Test/UserTypes/UpperStringFixture.cs
+END

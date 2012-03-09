@@ -1,0 +1,126 @@
+10
+
+dir
+1333
+https://nhcontrib.svn.sourceforge.net/svnroot/nhcontrib/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock
+https://nhcontrib.svn.sourceforge.net/svnroot/nhcontrib
+
+
+
+2009-04-03T20:04:18.958135Z
+822
+kailuowang
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+d7b3437e-3345-0410-94a8-cbd290e69f67
+
+DynQuery
+dir
+
+DAOBases
+dir
+
+default.build
+file
+
+
+
+
+2010-02-17T11:21:31.281351Z
+c811ab93857091338761dcf26a2aa94b
+2008-06-17T21:38:19.169034Z
+422
+kailuowang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1653
+
+UserTypes
+dir
+
+NHibernate.Burrow.AppBlock.csproj
+file
+
+
+
+
+2010-02-17T11:21:31.281351Z
+227e3f1457fef2c0ae467296d943f87b
+2009-04-03T20:04:18.958135Z
+822
+kailuowang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5239
+
+Pagination
+dir
+
+EntityBases
+dir
+
+Transform
+dir
+
+Properties
+dir
+
+Serialization
+dir
+
+GenericImpl
+dir
+
+SoftDelete
+dir
+

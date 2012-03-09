@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/DynQuery
+END
+Select.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/DynQuery/Select.cs
+END
+IDynClause.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/DynQuery/IDynClause.cs
+END
+DetachedDynQuery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/DynQuery/DetachedDynQuery.cs
+END
+From.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/DynQuery/From.cs
+END
+PaginableDynQuery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/DynQuery/PaginableDynQuery.cs
+END
+IQueryPart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/DynQuery/IQueryPart.cs
+END
+OrderBy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/DynQuery/OrderBy.cs
+END
+LogicalExpression.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/DynQuery/LogicalExpression.cs
+END
+Where.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/nhcontrib/!svn/ver/215/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.AppBlock/DynQuery/Where.cs
+END

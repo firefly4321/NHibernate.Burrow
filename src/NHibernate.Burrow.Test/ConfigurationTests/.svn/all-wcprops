@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/ConfigurationTests
+END
+ConfigReadWriteFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/ConfigurationTests/ConfigReadWriteFixture.cs
+END
+ConfiguratorFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/nhcontrib/!svn/ver/822/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/ConfigurationTests/ConfiguratorFixture.cs
+END

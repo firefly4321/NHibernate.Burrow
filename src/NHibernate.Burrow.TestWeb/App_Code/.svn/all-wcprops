@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/nhcontrib/!svn/ver/244/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/App_Code
+END
+Util.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/nhcontrib/!svn/ver/211/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/App_Code/Util.cs
+END
+AssertException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/nhcontrib/!svn/ver/211/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/App_Code/AssertException.cs
+END
+Checker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/nhcontrib/!svn/ver/211/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.TestWeb/App_Code/Checker.cs
+END

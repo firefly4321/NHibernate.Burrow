@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/nhcontrib/!svn/ver/584/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/FrameworkEnvironment
+END
+FuctionFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/nhcontrib/!svn/ver/584/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/FrameworkEnvironment/FuctionFixture.cs
+END
+ShutDownFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/nhcontrib/!svn/ver/584/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow.Test/FrameworkEnvironment/ShutDownFixture.cs
+END

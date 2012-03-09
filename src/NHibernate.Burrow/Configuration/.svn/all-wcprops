@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/nhcontrib/!svn/ver/705/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow/Configuration
+END
+Util.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/nhcontrib/!svn/ver/705/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow/Configuration/Util.cs
+END
+PersistenceUnitElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/nhcontrib/!svn/ver/432/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow/Configuration/PersistenceUnitElement.cs
+END
+ConfigurationFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/nhcontrib/!svn/ver/705/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow/Configuration/ConfigurationFactory.cs
+END
+NHibernateBurrowCfgSection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/nhcontrib/!svn/ver/705/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow/Configuration/NHibernateBurrowCfgSection.cs
+END
+PersistenceUnitElementCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/nhcontrib/!svn/ver/211/trunk/src/NHibernate.Burrow/src/NHibernate.Burrow/Configuration/PersistenceUnitElementCollection.cs
+END
